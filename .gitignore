@@ -1,0 +1,10 @@
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+.whatsapp-bot.lock
+group-contacts.csv
+contacts.csv
+*.csv
+.env
+.env.*
+!.env.example
