@@ -2,6 +2,8 @@
 
 A local Node.js utility that connects to WhatsApp Web and exports phone numbers from groups available to the linked account.
 
+Save numbers from many WhatsApp groups as you wish.
+
 ## Requirements
 
 - Node.js 18 or newer
